@@ -63,7 +63,7 @@
 I'm available for **private audits, protocol reviews and bug-bounty collaboration** — EVM or Solana.
 
 - 🏆 Competitive: **[Cantina — Saturn (@Nagi97K)](https://cantina.xyz/u/Nagi97K)**
-- 🛡️ Bug bounty: **[HackenProof — saturndotbash](https://hackenproof.com/hackers/saturndotbash)**
+- 🛡️ Bug bounty: **[HackenProof — saturndotbash](https://hackenproof.com/hackers/saturndotbash)** · KYC-verified · active on 6 programs incl. Bitkub (#15), SuperEarn (#39), Solv (#49), Dexalot (#63)
 - 💬 Discord: `saturncitizen`
 - 📫 Email: `saturnbashct@proton.me`
 
