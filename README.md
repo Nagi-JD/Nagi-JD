@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://cantina.xyz/u/Nagi97K"><img src="https://img.shields.io/badge/Cantina-Saturn%20(%40Nagi97K)-1f6feb?style=for-the-badge" alt="Cantina"/></a>
-  <img src="https://img.shields.io/badge/Public%20bounties-%2411.5k%2B-2ea043?style=for-the-badge" alt="Bounties"/>
+  <img src="https://img.shields.io/badge/Bounties-%2413k%2B-2ea043?style=for-the-badge" alt="Bounties"/>
   <img src="https://img.shields.io/badge/Critical%20%2F%20High-disclosed-d29922?style=for-the-badge" alt="Findings"/>
 </p>
 
@@ -62,7 +62,7 @@
 I'm available for **private audits, protocol reviews and bug-bounty collaboration** — EVM or Solana.
 
 - 🏆 Competitive: **[Cantina — Saturn (@Nagi97K)](https://cantina.xyz/u/Nagi97K)**
-- 💬 Discord: `Saturn.bash`
+- 💬 Discord: `saturncitizen`
 - 📫 Email: `saturnbashct@proton.me`
 
 <p align="center"><i>I read the code the way an attacker does. 🪐</i></p>
