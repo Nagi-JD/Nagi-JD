@@ -8,8 +8,8 @@
 <h1 align="center">👋 I'm Saturn</h1>
 
 <p align="center">
-  <b>Smart contract security researcher</b> — EVM (Foundry) &amp; Solana (Anchor / Rust).<br/>
-  I break protocols the way an attacker reads them: assumptions first, invariants second.
+  <b>Security researcher</b> — smart contracts (EVM · Foundry / Solana · Anchor) <b>and Web2 applications</b>.<br/>
+  I break systems the way an attacker reads them: assumptions first, invariants second.
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 ### What I do
 
-- 🔴 **Critical & High findings disclosed** across DeFi, cross-chain and RWA protocols.
-- 🧪 **PoC-driven** — every claim is backed by a passing Foundry / Anchor test, not prose.
-- 🌐 **Multi-VM** — I audit both EVM (Solidity/Yul, Foundry) and Solana (Rust, Anchor, SPL / Token-2022).
-- 🕸️ **From Web2 to Web3** — years reading real-world backends (JS / PHP / infra) sharpen how I trace value and trust across boundaries.
+- 🔴 **Critical & High findings disclosed** across DeFi, cross-chain, RWA — and Web2 platforms.
+- 🧪 **PoC-driven** — every claim is backed by a passing test, not prose.
+- ⛓️ **Web3 — multi-VM**: I audit both EVM (Solidity/Yul, Foundry) and Solana (Rust, Anchor, SPL / Token-2022).
+- 🕸️ **Web2 — application & API security**: web app pentest and bug bounty on real backends (JS / TS / PHP / infra) — e.g. a High-severity flaw confirmed & rewarded **$1,500** on ThunderPick.
 
 ---
 
@@ -36,7 +36,7 @@
 |---|---|---|---|
 | **Suzaku** | 🔴 Critical | Intra-epoch validator stake inflation | ✅ Confirmed & fixed ([issue #250](https://github.com/suzaku-network/suzaku-core/issues/250)) |
 | **Hyperbridge** | 🟠 High | Handler storage poisoning by an unprivileged EOA | Reported · PoC ✓ |
-| **ThunderPick** | 🟠 High | Application-layer security flaw | ✅ Confirmed · **$1,500** awarded · hotfixed |
+| **ThunderPick** *(Web2)* | 🟠 High | Application-layer security flaw | ✅ Confirmed · **$1,500** awarded · hotfixed |
 | **AladdinDAO — f(x) v2** | 🟠 High | Maker surplus-collateral capture on stale close orders | Reported |
 | **OnRe** *(Solana)* | — | Program owner-check weakness | 🔒 Private — details on request |
 
@@ -47,20 +47,27 @@
 
 ### Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat&logo=solana&logoColor=white" alt="Anchor"/>
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black" alt="Solana"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum"/>
-</p>
+**Web3** &nbsp;
+<img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" alt="Foundry"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/Anchor-9945FF?style=flat&logo=solana&logoColor=white" alt="Anchor"/>
+<img src="https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black" alt="Solana"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum"/>
+
+**Web2** &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Web%20app%20%26%20API%20security-2ea043?style=flat" alt="Web app security"/>
 
 ---
 
 ### Work with me
 
-I'm available for **private audits, protocol reviews and bug-bounty collaboration** — EVM or Solana.
+I'm available for **security engagements across Web3 and Web2** — smart contract audits & protocol reviews (EVM / Solana), and **web application / API security & bug bounty**.
 
 - 🏆 Competitive: **[Cantina — Saturn (@Nagi97K)](https://cantina.xyz/u/Nagi97K)**
 - 🛡️ Bug bounty: **[HackenProof — saturndotbash](https://hackenproof.com/hackers/saturndotbash)** · KYC-verified · active on 6 programs incl. Bitkub (#15), SuperEarn (#39), Solv (#49), Dexalot (#63)
