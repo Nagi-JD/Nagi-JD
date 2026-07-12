@@ -26,7 +26,7 @@
 - 🔴 **Critical & High findings disclosed** across DeFi, cross-chain, RWA — and Web2 platforms.
 - 🧪 **PoC-driven** — every claim is backed by a passing test, not prose.
 - ⛓️ **Web3 — multi-VM**: I audit both EVM (Solidity/Yul, Foundry) and Solana (Rust, Anchor, SPL / Token-2022).
-- 🕸️ **Web2 — application & API security**: web app pentest and bug bounty on real backends (JS / TS / PHP / infra) — e.g. a High-severity flaw confirmed & rewarded **$1,500** on ThunderPick.
+- 🕸️ **Web2 — APP/API security**: web app pentest & real backends bug bounty (JS / TS / PHP / infra).
 
 ---
 
